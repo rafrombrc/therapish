@@ -15,18 +15,6 @@ paginate = 5
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
-
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
-
-[[menu.navbar]]
-  name = "About"
-  url = "/about"
-
 [Author]
   name = "Robert James Joy"
 
@@ -34,10 +22,10 @@ paginate = 5
 #
 [params]
   # Description/subtitle for homepage (can be Markdown)
-  subtitle = "Psychology for the rest of us"
+  subtitle = "Something something something"
 
   # authorbox = true
-  postSections = ['posts', 'about']
+  postSections = ['post', 'about']
   post_navigation = true
 
   # Format dates with Go's time formatting
