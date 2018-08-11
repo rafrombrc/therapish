@@ -1,42 +1,31 @@
 ---
 title: "About Therapish"
-date: 2018-06-08
+date: 2018-06-24
 menu:
   main:
     name: About
     weight: 10
 ---
 
-Wikipedia (as of writing this, anyway) defines
-[psychology](https://en.wikipedia.org/wiki/Psychology) as "the science of
-behavior and mind... as well as feeling and thought." Behavior and mind and
-feeling and thought... that's a *lot* of territory. That covers most of human
-lived experience. All of your joy, sadness, pleasure, pain, fun, boredom,
-ideas, stories, and actions fit in there. A younger me wasn't particularly
-interested in learning about psychology, but I feel a bit embarrassed about
-that now. I think psychology is one of the most valuable and underappreciated
-topics of study. What could be more useful than learning about how I work?
-About why I think these thoughts, why I feel those feelings, why I do these
-things?
+A therapist (or, more precisely, a "psychotherapist") is a trained, licensed
+professional who has undergone a rigorous study and practice of psychology
+towards the end of improving the mental and emotional health of paying clients.
+Someone who is "therapish" has *not* gone through such training, doesn't have
+such a license, but is still interested in learning about these topics due to
+their own interest. This interest is often fueled by a belief that this
+knowledge can improve their quality of life, by supporting a depth of
+understanding of their own behaviors, feelings, and relationships, and possibly
+the ability to change these in some desirable ways.
 
-It's not possible to answer these questions completely, of course, neither in
-general nor in any specific case. Psychology is not an exact science, nor even
-always a consistent one. But still, a large number of very smart people have
-spent many years experimenting, studying, watching, and communicating about
-humans and their behaviors and their experiences. And there is much to gain
-from exploring alongside them, from turning our gaze toward ourselves, each
-other, and the ways that we relate to one another.
+This site is in honor of, is in support of, and is an effort to expand the
+ranks of those who consider themselves therapish. If you'd like to deepen your
+understanding of the basic mechansisms of your own functioning, this site is
+for you. If you'd like to develop a relationship with your own style of
+relationship, this site is for you. If you find yourself fascinated by the very
+existence of this thing that we call "sentience" or "consciousness" and might
+enjoy exploring its foundations and most basic functional mechanisms, this site
+is for you. And, most of all, if you're interested in applying these
+understandings to an improved experience of life for yourself, then this site
+is for you.
 
-The Therapish project rises from two basic premises. The first is that learning
-about psychology is pragmatically useful. Studying the human psyche is not just
-an academic exercise; many of the concepts we'll explore can be seen and
-experienced in our own lives, often providing valuable insights into our
-behaviors and our relationships.
-
-The second premise is that learning about psychology is fun. Psychology
-contains, to put it bluntly, some weird shit. There are well documented
-phenomena that seem so strange and unlikely that they can be hard to
-swallow. The mechanisms by which some of these phenomena operate are not always
-well understood. But they happen, and they impact us every day in very real
-ways, and they are truly fascinating. My earnest hope is that you'll find these
-ideas as interesting and as useful as I have.
+Thanks for exploring.
