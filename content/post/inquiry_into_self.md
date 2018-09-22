@@ -6,10 +6,10 @@ draft: true
 
 Most people will use the word "myself" or refer to an "I" or a "me" without
 thinking too much about it. We think of our "selves" as having certain traits,
-which together make up a sense of what we call identity. "I'm outgoing." "I'm
-anxious." "I'm ambitious." "I'm thoughtful and deliberate." It sometimes can
-seem as though we have an unending supply of stories about ourselves. But what
-is this "self" that we're speaking of, anyway?
+which collectively make up a sense of what we call identity. "I'm outgoing."
+"I'm anxious." "I'm ambitious." "I'm thoughtful and deliberate." It sometimes
+can seem as though we have an unending supply of stories about ourselves. But
+what is this "self" that we're speaking of, anyway?
 
 This question has caused various mystics and philosophers to chase themselves
 around conceptual trees throughout all of human history. Attempting to reckon
@@ -25,8 +25,8 @@ parts. We can define "self" as a structure of sentience or consciousness that
 is tied to a specific body, which inhabits and animates that body, and *which
 gives rise to a sense of conceptual continuity within that body*. It is a
 center of sensation and feeling, capable of perceiving and reacting to and
-impacting the world within which it exists, but also of thought, capable of
-conceptualizing abstractions about that world.
+impacting the world within which it exists. It is also a center of thought,
+capable of conceptualizing abstractions about that world.
 
 Human infants do not yet have a self in the way that we mean. They have
 sentience, i.e. perceptions and sensations, but they do not have the thought
@@ -68,10 +68,10 @@ and experience of these attachment figures.
 
 Given this, it's no wonder that it's a cliché how psychologists and
 psychotherapists are so very interested in a client's relationship to their
-parents. The key to understanding the workings of an adult self is
-understanding the others from which that self was constructed, and how the
-experience of those others supported (or not) that construction. So much of
+parents. In these models, the key to understanding the workings of an adult
+self is understanding the others from which that self was constructed, and how
+the experience of those others supported (or not) that construction. So much of
 what you understand to be "you" is the result of your unformed self trying to
 make sense its experience of its caregivers, and trying to figure out how best
-to get those caregivers to continue to give the care upon which the vulnerable
-infant depends.
+to get those caregivers to continue to give you the care upon which you
+depended.

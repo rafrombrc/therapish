@@ -11,22 +11,22 @@ constancy", which moves beyond merely recognizing an object's permanent
 existence and on to understanding that a single object can contain a multitude
 of (sometimes disparate) traits. Knowing that a book still exists even though
 it's hidden behind my back shows object permanence; knowing that the book is
-the same book whether you're seeing it standing vertically on the shelf or
+the same object whether you're seeing it standing vertically on the shelf or
 laying on the floor with the pages splayed open shows object constancy.
 
 When psychologists speak of object constancy, however, books are not usually
-the objects they have in mind. People are objects, too, and our relationships
-to people have a much larger impact on our development of self, especially our
+what they have in mind. People are objects, too, and our relationships to
+people have a much larger impact on our development of self, especially our
 parents or primary caregivers. This is not terribly surprising, given the
 abject helplessness of the human infant. Our survival is *completely* dependent
 on our caregivers, so we are hard wired to a) figure out who they are and b)
 bond with or "attach to" them as effectively as possible.
 
 Realizing the constancy of a parent figure does not happen all at once. Our
-experience of a caregiver is made up of a variety of phenomena. Newborns
+experience of a caregiver is made up of a variety of phenomena. A newborn will
 usually experience breastfeeding, with its soft touches and warmth and
-nourishing sweetness. They also experience being tickled, with a tactile
-experience of gently poking fingers and a reflexive laughter response. The
+nourishing sweetness. They may also experience being tickled, with the tactile
+sensation of gently poking fingers and the reflexive laughter response. The
 child will develop a relationship to each of these experiences, but it may not
 put it together that one single "Mama" object is behind both of those
 experiences.
@@ -57,10 +57,10 @@ responsible for both the nurture and the torture. This inability to integrate
 the experiences into a single object can have long lasting effects, possibly
 leading to an adult who has a hard time seeing others in all their
 fullness. This person will tend to experience those around them as either all
-good (idealization) or all bad (vilification). They might even move the same
-person back and forth (sometimes with dizzying speed!) between being
-experienced as good or as bad. But they will have a hard time having a nuanced
-experience of a complete other containing both positive and negative traits.
+good (idealization) or all bad (vilification), or maybe even vascillating
+between the two. It would be hard for them, however, to have a nuanced
+experience of a complete other, simlutaneously containing both positive and
+negative traits.
 
 A parent figure's lack of object constancy also impacts the internalization of
 that parent figure. The internal representation that the child carries around
@@ -75,9 +75,10 @@ to be linked to what is called "borderline" behavior. Among the symptoms of
 are disturbed sense of identity, extreme reactions to real or imagined
 abandonment, "black and white" thinking, and uncontrollable emotional reactions
 that seem disproportionate to an event or situation. It's as though the folks
-with a healthy sense of object constancy are always carrying their mother
-around with them, holding them and whispering words of encouragement and
-safety, providing an ability to tolerate aloneness. The poor souls with
-impaired object constancy feel along on the inside, and are terrified of the
-possibility, and have a hard time tolerating the reality, of loss of external
-connection.
+with a healthy sense of object constancy are always carrying a reassuring
+mother around with them, a mother that can hold them and whisper words of
+encouragement and safety. Aloneness is tolerable when you always have this
+internalized mother inside of you. The poor souls with impaired object
+constancy feel profoundly alone inside of themselves. They are terrified of the
+possibility, and have a hard time tolerating the reality, of any loss of
+external connection.

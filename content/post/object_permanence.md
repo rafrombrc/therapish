@@ -9,7 +9,7 @@ In our brief exploration of [the essence and formation of self]({{< relref
 can only develop in response to some sense of an other (or an "object"). As
 infants experience certain sensory impressions over and over again, they start
 to realize that particular bundles of sensations (sights, smells, sounds,
-tastes, and tactile feelings) have an existence all on their own. The bundles
+tastes, and tactile feelings) have an existence all on their own. These bundles
 become associated with a single other, a single object, that persists over
 time. In fact, the budding little baby grows to realize, that object exists
 *even when the baby is not perceiving it*. This realization we call "object
@@ -17,13 +17,13 @@ permanence".
 
 A baby's delight at the game "peek-a-boo" is often brought up to illustrate
 object permanence. Peek-a-boo is wasted effort with a newborn, who hasn't even
-developed a relationship to the experience of seeing a face, much less come to
-know that the human face belongs to a persistent other. Nor does peek-a-boo
-excite an older child, who perfectly well understands that the face is attached
-to a person, and the person is still just right there, even if the face isn't
-visible. Peek-a-boo enthralls those old enough to recognize a friendly face,
-but young enough to still be making sense of it disappearing, and to be
-delighted each time it reappears anew.
+developed a relationship to the experience of seeing a face. Nor does
+peek-a-boo excite an older child, who has seen numerous faces, who knows that
+each face is attached to a person, and that the person is still just right
+there, even if the face isn't visible. Peek-a-boo only enthralls those old
+enough to delight in a friendly face, but young enough to still be making sense
+of the face's disappearance, to feel some amount of thrill, surprise, and or
+relief each time it reappears.
 
 There is no consensus on exactly when humans develop object permanence. The
 prominent Swiss psychologist
@@ -36,7 +36,7 @@ eventually learn that it begins to develop even before birth.
 
 Similarly, we don't know all of the details about how it develops. It's almost
 certainly related to the sensory feedback loop of an infant's interaction with
-their environment, feeding into the growth of neural connections in the
+their environment, feeding into the growth of neural connections in the brain's
 developing frontal cortex. But that leaves many unresolved questions: How long
 does it take? Does it develop in specific stages?  What might interfere with
 its development? Research continues: the PubMed database lists
@@ -45,9 +45,9 @@ related to object permanence in humans (and more in other species) for readers
 interested in learning more about studies and thinking on this topic.
 
 Regardless of when and how, some sense of object permanence always does
-develop. An adult human with absolutely no sense of object permanence wouldn't
-be able to perform the most rudimentary of tasks. It may not develop equally
-smoothly for everyone, however. My partner, a licensed therapist who worked in
+develop. An adult human with absolutely no sense of object permanence couldn't
+perform the most rudimentary tasks. This development might not be equally
+smooth for everyone, however. My partner, a licensed therapist who worked in
 community mental health for a number of years, learned from a mentor that
 individuals who tend towards psychosis often have behaviors that hint at a
 relatively tenuous sense of object permanence. She learned to watch for clients
