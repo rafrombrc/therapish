@@ -1,31 +1,51 @@
 ---
 title: "About Therapish"
-date: 2018-06-24
+date: 2018-09-10
 menu:
   main:
     name: About
     weight: 10
 ---
 
-A therapist (or, more precisely, a "psychotherapist") is a trained, licensed
-professional who has undergone a rigorous study and practice of psychology
-towards the end of improving the mental and emotional health of paying clients.
-Someone who is "therapish" has *not* gone through such training, doesn't have
-such a license, but is still interested in learning about these topics due to
-their own interest. This interest is often fueled by a belief that this
-knowledge can improve their quality of life, by supporting a depth of
-understanding of their own behaviors, feelings, and relationships, and possibly
-the ability to change these in some desirable ways.
+Wikipedia (as of this writing) defines
+[psychology](https://en.wikipedia.org/wiki/Psychology) as "the science of
+behavior and mind, including conscious and unconscious phenomena, as well as
+feeling and thought." Behavior and mind and feeling and thought is a *lot* of
+territory. In fact, it covers most of human lived experience. All of our joy,
+sadness, pleasure, pain, fun, boredom, ideas, stories, and actions fit in those
+categories.
 
-This site is in honor of, is in support of, and is an effort to expand the
-ranks of those who consider themselves therapish. If you'd like to deepen your
-understanding of the basic mechansisms of your own functioning, this site is
-for you. If you'd like to develop a relationship with your own style of
-relationship, this site is for you. If you find yourself fascinated by the very
-existence of this thing that we call "sentience" or "consciousness" and might
-enjoy exploring its foundations and most basic functional mechanisms, this site
-is for you. And, most of all, if you're interested in applying these
-understandings to an improved experience of life for yourself, then this site
-is for you.
+As that definition hints, one of the primary ideas in modern psychology is that
+unconscious phenomena significantly influence human behavior. Consider that for
+a moment... unconscious phenomena are, by definition, parts of us that we are
+unaware of. We tend to think of the choices we make and the actions we take as
+determined by our conscious minds. Psychology claims that parts of ourselves
+that *we don't even know about* are having a much bigger impact on our behavior
+than we think. If that's so, it makes me quite curious. What are those unknown
+parts of me? How are they impacting my behavior? Are those impacts that I'm
+happy about, or would I rather they back off a bit?
+
+When I met [my partner](http://lisapetrastherapy.com/) in 2011, she had nearly
+acquired her California Marriage and Family Therapy license. As I grew close to
+her and the many other therapists in our shared community, I learned a bit
+about modern psychological thinking. I often found that thinking about my own
+life with these frames in mind gave "a-ha" moments, sometime accompanied by
+strong feelings and emotions. This piqued my interest and led me to learn more
+by reading books and by undertaking my own individual therapy. Over time my
+friends and I would joke that I might not be a therapist, but I was certainly
+therapish.
+
+This site is an effort to share the understanding and enthusiasm that I have
+grown with others. Psychotherapists undergo a rigorous training and licensure
+process before they can practice on clients; this is probably wise. But we
+don't need a license to be interested in learning about the models that
+therapists apply, or to be curious about looking at our own selves through the
+lenses of these models. I genuinely experience my life to have improved from
+learning about them and applying them to myself. I feel like unconscious
+structures and motivations have come into my awareness, which has led me to
+have more conscious agency and choice in my life. This in turn has led to more
+positive outcomes.
+
+My hope is that you too will find these ideas both fascinating and useful.
 
 Thanks for exploring.

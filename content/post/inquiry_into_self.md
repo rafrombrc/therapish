@@ -1,6 +1,6 @@
 ---
 title: "An Inquiry Into \"Self\""
-date: 2018-08-10T18:17:41-07:00
+date: 2018-09-21
 draft: true
 ---
 
